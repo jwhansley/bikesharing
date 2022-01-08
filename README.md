@@ -1,5 +1,7 @@
 # Bikesharing
 
+[link to dashboard](https://public.tableau.com/app/profile/jack.hansley/viz/Citibike_Rideshare_Analysis/Story1?publish=yes)
+
 ## Overview of the analysis
 The purpose of this challenge was to explore bikesharing data from NYC and see if we can learn if applying a similar program in Des Moines would be successful.
 
